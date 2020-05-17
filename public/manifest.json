@@ -1,0 +1,9 @@
+{
+  "short_name": "Synergy Mockup",
+  "name": "3D mockup creation for the masses!",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

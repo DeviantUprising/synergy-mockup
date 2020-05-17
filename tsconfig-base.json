@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "src/*": ["src/*"],
+      "lib/*": ["lib/*"],
+      "@modules/*": ["src/application/modules/*"],
+      "@global/*": ["src/application/global/*"],
+      "@api/*": ["src/application/commands/*"],
+      "@3rdparty/*": ["src/application/utils/*"],
+      "@presentation-components/*": ["src/presentation/components/*"],
+      "@presentation-actions/*": ["src/presentation/store/actions/*"],
+      "@presentation-reducers/*": ["src/presentation/store/reducers/*"]
+    }
+  }
+}
